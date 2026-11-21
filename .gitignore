@@ -1,0 +1,5 @@
+/.venv/
+/data/
+*.nwb
+*.nwb.part
+__pycache__/

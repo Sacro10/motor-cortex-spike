@@ -1,0 +1,5 @@
+aiohttp>=3.9
+fsspec>=2024.6
+h5py>=3.11
+matplotlib>=3.8
+numpy>=1.26
